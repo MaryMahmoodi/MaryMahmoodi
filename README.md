@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MaryMahmoodi
 - 👀 I’m interested in signal processing and algorithm design for brain-computer-interface (BCI) applications.
 - 💞️ I’m looking forward to collaborate on real-time signal processing and machine/deep learning in a closed-loop BCI for rehabilitation purposes. 
--   Reach me via Email: mahmoodi-m@razi.tums.ac.ir
+-   Reach me via Email: mahmoodi.mary67@gmail.com
