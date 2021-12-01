@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaryM. I am a biosignal algorithm design engineer and reviewer.
+- 👋 Hi, I’m @Mary. I am a biosignal algorithm design engineer and reviewer.
 - 👀 I’m interested in signal processing and algorithm design for brain-computer-interface (BCI) applications.
 - 💞️ I’m looking forward to collaborate on real-time signal processing and machine/deep learning in a closed-loop BCI system for rehabilitation purposes. 
 -   Reach me via Email: mahmoodi.mary67@gmail.com
