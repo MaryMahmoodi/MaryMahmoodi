@@ -4,4 +4,4 @@
 real-time signal processing algorithm design and machine/deep learning in a closed-loop BCI system for rehabilitation purposes 
 
 
-   Low-cost neurofeedback devices for sleep, motor recovery, pain, and BCI spellers using brain evoked potentials   
+   Low-cost neurofeedback applications for sleep analysis, motor recovery, pain relief, and BCI spellers using brain evoked potentials   
