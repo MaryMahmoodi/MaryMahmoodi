@@ -6,7 +6,7 @@
 
 Real-time signal processing algorithm design and machine/deep learning
 
-for closed-loop brain-computer interface (BCI) system for neuromodulation purposes 
+Closed-loop brain-computer interface (BCI) system for neuromodulation purposes 
 
 
 Low-cost neurofeedback applications for sleep analysis, motor recovery, pain relief, and BCI spellers using brain evoked potentials   
