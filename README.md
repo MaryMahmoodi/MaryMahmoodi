@@ -4,11 +4,11 @@
 
 
 
-Real-time signal processing, algorithm design, and machine/deep learning 
+Real-time signal processing, algorithm design, and deep learning 
 
 for 
 
 Closed-loop brain-computer interface (BCI) with neuromodulation purposes 
 
 
-Low-cost neurofeedback applications for sleep analysis, motor recovery, pain relief, and BCI spellers using brain evoked potentials   
+Low-cost neurofeedback for sleep analysis, motor recovery, pain relief, BCI speller... 
