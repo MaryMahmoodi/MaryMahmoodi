@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mary.
+- 👋 Hi, I’m Mary.
 
 - 💞️ My interests: 
 
