@@ -8,10 +8,10 @@ Real-time signal processing, algorithm design, and deep learning
 for 
 
 
-low-cost and closed-loop brain-computer interface (BCI)
+low-cost and closed-loop brain-computer interfaces (BCIs)
 
 
-with applications to
+applicable to
 
 
-sleep autoanalysis, BCI speller, and neuromodulation purposes like motor recovery, pain relief, ... 
+sleep autoanalysis, BCI speller, and neuromodulation purposes like motor recovery of stroke patients, pain relief, ... 
