@@ -3,7 +3,7 @@
 - 💞️ My interests: 
 
 
-Real-time signal processing, algorithm design, and deep learning 
+Real-time signal processing algorithm design, and deep learning 
 
 for 
 
