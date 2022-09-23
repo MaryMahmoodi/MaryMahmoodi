@@ -3,12 +3,15 @@
 - 💞️ My interests: 
 
 
-
 Real-time signal processing, algorithm design, and deep learning 
 
 for 
 
-Closed-loop brain-computer interface (BCI) with neuromodulation purposes 
+
+low-cost and closed-loop brain-computer interface (BCI)
 
 
-Low-cost neurofeedback for sleep autoanalysis, motor recovery, pain relief, BCI speller... 
+with applications to
+
+
+sleep autoanalysis, BCI speller, and neuromodulation purposes like motor recovery, pain relief, ... 
