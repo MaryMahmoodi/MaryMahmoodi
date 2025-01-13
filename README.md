@@ -9,7 +9,7 @@ Real-time signal processing algorithm design, and deep learning
 for 
 
 
-low-cost and closed-loop brain-computer-interfaces (BCIs)
+low-cost and closed-loop brain-computer interfaces (BCIs)
 
 
 
