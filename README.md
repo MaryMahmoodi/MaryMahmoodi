@@ -17,4 +17,5 @@ applicable to
 
 
 
-sleep autoanalysis, and neuromodulation like motor recovery of stroke patients, pain relief, ... 
+sleep autoanalysis and neuromodulation through neurofeedback training 
+for motor recovery of stroke patients, cognitive training aimed at improving memory-attention in mild cognitive imapairment, pain relief, ... 
