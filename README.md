@@ -17,5 +17,6 @@ applicable to
 
 
 
-sleep autoanalysis and neuromodulation through neurofeedback training 
+sleep autoanalysis and neuromodulation through neurofeedback training (NFT) game
+
 for motor recovery of stroke patients, cognitive training aimed at improving memory-attention in mild cognitive imapairment, pain relief, ... 
