@@ -3,7 +3,7 @@
 - 💞️ My interests: 
 
 
-Real-time signal processing algorithm design and AI 
+online adaptive signal processing algorithm design and AI 
 
 
 for 
