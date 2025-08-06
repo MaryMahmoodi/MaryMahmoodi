@@ -3,19 +3,18 @@
 - 💞️ My interests: 
 
 
-online adaptive signal processing algorithm design and AI 
+adaptive signal processing algorithm design and AI 
 
 
 for 
 
 
-fast yet robust EEG signal monitoring
+fast yet robust EEG signal monitoring 
 
 
 applicable to
 
 
+affordable brain-computer interface (BCI) neurofeedback training (NFT) and estimating the neuromodulation treatment outcome   
 
-sleep autoanalysis, low-cost brain-computer interfaces (BCIs) through neurofeedback training (NFT) for neuromodulation   
-
-for motor recovery of stroke patients, improving attention in mild cognitive imapairment, pain relief, ... 
+sleep auto-analyzer, motor imagery (MI) NFT for motor recovery of stroke patients, attention training in mild cognitive imapairment, excitability NFT for pain relief, ... 
