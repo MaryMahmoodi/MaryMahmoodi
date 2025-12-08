@@ -9,7 +9,7 @@ Adaptive signal processing algorithm design and AI
 for 
 
 
-fast yet robust EEG signal monitoring 
+fast robust EEG signal monitoring 
 
 
 applicable to
