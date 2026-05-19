@@ -17,6 +17,6 @@ robust EEG signal monitoring in brain-computer interface (BCI) neurofeedback tra
 
 ✅sleep auto-analyzer 
 
-✅Classifying normal, mild cognitive imapirment and dementia from resting-state EEG and estimating the severity of cognitive decline
+✅ EEG-based Classifying normal, mild cognitive imapairment (MCI), and dementia and estimating the severity of cognitive decline
 
 ✅motor imagery/intention (MI) NFT for motor recovery of stroke/MS/parkinson's patients, attention NFT in mild cognitive imapairment, excitability NFT for pain relief 
