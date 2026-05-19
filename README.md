@@ -11,7 +11,7 @@ for
 
 robust EEG signal monitoring in brain-computer interface (BCI) neurofeedback training (NFT)
 
-✅Monitoring brain response at rest and during the RTMS neuromodulation treatment for presonalized treatmnet of pain/depression 
+✅Monitoring brain response at rest and during the RTMS neuromodulation treatment for presonalized pain/depression treatment 
 
 ✅Predicting the neuromodulation outcome
 
