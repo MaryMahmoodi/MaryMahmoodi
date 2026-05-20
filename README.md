@@ -15,7 +15,7 @@ robust EEG signal monitoring in brain-computer interface (BCI)
 
 ✅Predicting the neuromodulation outcome
 
-✅Designing sleep-EEG auto-analyzer software for sleep stage neuromarker 
+✅Designing sleep-EEG auto-analyzer software for sleep stage neuromarker detection 
 
 ✅ EEG-based Classifying mild cognitive decline, dementia, and normal groups
 
