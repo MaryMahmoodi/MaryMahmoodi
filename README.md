@@ -11,12 +11,12 @@ for
 
 robust EEG signal monitoring in brain-computer interface (BCI) 
 
-✅Monitoring brain response at rest and during the RTMS neuromodulation treatment for presonalized pain/depression treatment 
+✅Monitoring brain response from EEG at rest and during the RTMS neuromodulation treatment for presonalized pain/depression treatment 
 
-✅Predicting the neuromodulation outcome
+✅Predicting the neuromodulation outcome during the therapy session
 
 ✅Designing sleep-EEG auto-analyzer software for sleep stage neuromarker detection 
 
-✅ EEG-based Classifying mild cognitive decline, dementia, and normal groups
+✅EEG-based Classifying mild cognitive decline, dementia, and normal groups
 
-✅motor imagery/intention (MI) neurofeedback training (NFT) for motor recovery of stroke/MS/parkinson's patients, attention NFT in mild cognitive imapairment
+✅Motor imagery/intention (MI) neurofeedback training (NFT) for motor recovery of stroke/MS/parkinson's patients, attention NFT in mild cognitive imapairment
