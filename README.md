@@ -11,11 +11,11 @@ for
 
 robust EEG signal monitoring in brain-computer interface (BCI) 
 
-✅Monitoring brain response from EEG at rest and during the RTMS neuromodulation treatment for presonalized pain/depression treatment 
+✅Monitoring the brain excitability/connectivity response from EEG during the RTMS neuromodulation session for presonalized pain/depression treatment intervention.
 
 ✅Predicting the neuromodulation outcome during the therapy session
 
-✅Designing sleep-EEG auto-analyzer software for sleep stage neuromarker detection 
+✅Designing sleep-EEG auto-analyzer software for sleep stage neuromarker detection with less than 5% error
 
 ✅EEG-based Classifying mild cognitive decline, dementia, and normal groups
 
