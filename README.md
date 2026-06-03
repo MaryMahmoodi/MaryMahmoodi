@@ -19,4 +19,4 @@ robust EEG signal monitoring in brain-computer interface (BCI)
 
 ✅EEG-based Classifying mild cognitive decline, dementia, and normal groups
 
-✅Motor imagery/intention (MI) neurofeedback training (NFT) for motor recovery of stroke/MS/parkinson's patients, attention NFT in mild cognitive imapairment
+✅ Continuous Motor imagery/intention (MI) detection and neurofeedback training (NFT) for motor recovery of stroke/MS/parkinson's patients, attention NFT in mild cognitive imapairment
