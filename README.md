@@ -13,7 +13,7 @@ robust EEG signal monitoring in brain-computer interface (BCI)
 
 ✅Monitoring the brain excitability/connectivity response from EEG during the RTMS neuromodulation session for presonalized pain/depression/stroke treatment intervention.
 
-✅Predicting the neuromodulation outcome during the therapy session  for presonalized intervention
+✅Predicting the neuromodulation outcome during the therapy session  for presonalized neuromodulation intervention
 
 ✅Designing sleep-EEG auto-analyzer software for sleep stage neuromarker detection with less than 5% error
 
