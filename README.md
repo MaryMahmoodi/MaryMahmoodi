@@ -11,7 +11,7 @@ for
 
 robust EEG signal monitoring in brain-computer interface (BCI) 
 
-✅Monitoring the brain excitability/connectivity response from EEG during the RTMS neuromodulation session for presonalized pain/depression treatment intervention.
+✅Monitoring the brain excitability/connectivity response from EEG during the RTMS neuromodulation session for presonalized pain/depression/stroke treatment intervention.
 
 ✅Predicting the neuromodulation outcome during the therapy session
 
